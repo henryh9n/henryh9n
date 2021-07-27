@@ -3,7 +3,6 @@
 
 ## Here is some useful stuff
 
-[Python Software Engineer Training Materials](https://github.com/henryh9n/Python-Software-Engineer-Training)
-
 [My Personal Blog](https://henryh9n.tech/) 
 
+[Python Software Engineer Training Materials](https://materials.henryh9n.tech)
