@@ -20,3 +20,11 @@
 [My Personal Blog](https://henryh9n.tech/) 
 
 [Python Software Engineer Training Materials](https://materials.henryh9n.tech)
+
+<hr>
+
+## 🎵 Now Playing
+
+[![Spotify](https://henryh9n.vercel.app/api/spotify)](https://open.spotify.com/user/henryharutyunyan)
+
+<hr>
