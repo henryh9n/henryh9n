@@ -4,7 +4,7 @@
 
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fhenryh9n%2Fhenryh9n&count_bg=%231BA9BA&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=Profile+Hits&edge_flat=true)](https://github.com/henryh9n)
-[![Website](https://img.shields.io/website?style=flat-square&url=https%3A%2F%2Fhenryh9n.tech)](https://henryh9n.tech)
+[![Website](https://img.shields.io/website?style=flat-square&url=https%3A%2F%2Fhenryh9n.com)](https://henryh9n.com)
 
 ## Find me here
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/henryh9n)
@@ -17,7 +17,7 @@
 
 ## Here is some useful stuff
 
-[My Personal Blog](https://henryh9n.tech/) 
+[My Personal Blog](https://henryh9n.com/) 
 
 [Python Software Engineer Training Materials](https://materials.henryh9n.tech)
 
